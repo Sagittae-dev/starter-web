@@ -14,3 +14,6 @@ This is example to show different parts of the git repository
 this is deployment text
 
 ## How to contribute
+
+### Copyright 
+2021 Copyright
