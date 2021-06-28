@@ -15,5 +15,7 @@ this is deployment text
 
 ## How to contribute
 
+Please fork this repository and then issue pull request
+
 ### Copyright 
 2021 Copyright
